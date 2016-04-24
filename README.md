@@ -29,3 +29,11 @@ But "C#" and "C++" will not appear, because highlighters depend on term vectors 
 6. Add another field for postDate, so that postDate can be presented in their original format like 3/4/16.
 7. SKILL and ADDRESS are both "MUST" match fields now. So some queries will return less results.
 
+##V4 how to run:
+The same with that of V1.
+
+##V4 new feature:
+1. Experience is a "MUST" field now, the only optional field is additional information.
+2. Replace some null companyNames with "Unknown".
+3. Delete some results that have expired.
+
